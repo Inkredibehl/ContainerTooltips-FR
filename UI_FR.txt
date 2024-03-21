@@ -1,0 +1,10 @@
+UI_FR = {
+	UI_ContainerTooltips_Options_Vanilla_Name = "Afficher les noms Vanilla",
+	UI_ContainerTooltips_Options_Vanilla_Tooltip = "Cochez ceci pour afficher les noms vanilla comme 'Réfrigérateur' en info-bulles.",
+
+	UI_ContainerTooltips_Options_RenameContainer_Name = "Afficher les noms du mod 'Rename Containers'",
+	UI_ContainerTooltips_Options_RenameContainer_Tooltip = "Cochez pour utiliser les noms des conteneurs du mod 'Rename Containers' en info-bulles.",
+
+	UI_ContainerTooltips_Options_RenameEverything_Name = "Afficher les noms du mod 'Everything Has a Name'",
+	UI_ContainerTooltips_Options_RenameEverything_Tooltip = "Cochez pour utiliser les noms des conteneurs du mod 'Everything Has a Name' en info-bulles."
+}
